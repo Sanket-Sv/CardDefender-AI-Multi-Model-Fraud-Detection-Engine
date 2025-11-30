@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # CardDefender AI: Multi-Model Fraud Detection Engine
 
 CardDefender AI is an end-to-end machine learning system designed to
@@ -68,6 +68,4 @@ Classifies: - Fraudulent transactions - Legitimate transactions
 ## Author
 
 **Sanket Kumar**
-=======
-# CardDefender-AI-Multi-Model-Fraud-Detection-Engine
->>>>>>> e35cb231cef2d092e6a9445dac852ae45c6e92a0
+
