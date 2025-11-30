@@ -38,7 +38,7 @@ detection solution.
 ### 3. Model Development
 
 Models implemented: - Logistic Regression - Random Forest Classifier -
-SVM - Decision Tree - KNN - XGBoost (if used)
+SVM - Decision Tree - KNN 
 
 ### 4. Model Evaluation
 
